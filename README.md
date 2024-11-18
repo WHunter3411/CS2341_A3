@@ -9,8 +9,11 @@ Reference for RedBlackBST methods was the example in Princetone textbook.
 --Product Search (I did 4 and illustrated a not-found)--:
 
 Product ID: 2e2d46cee23bf6e46bcfc3202be60176, Name: Sticko 450188 Stickers, Shimmery Stars, Category: Toys & Games | Arts & Crafts | Stickers, Price: $1.89
+
 Product ID: d1ac6d805fcdf75f9e00af611dd03ce4, Name: The Learning Journey ABC Melody Maker, Primary, Category: Toys & Games | Baby & Toddler Toys | Musical Toys, Price: $34.39
+
 Product ID: 89a993dbc079cc3fbe9088c8170b6f99, Name: PLUS PLUS - Construction Building Toy, Open Play Set - 3,600 Pieces with Storage Tub - Basic Color Mix, Category: Toys & Games | Building Toys | Building Sets, Price: $159.99
+
 Product with ID aNonExistentProductID not found.
 
 --Duplicate Product Insertion (ID: 2e2d46cee23bf6e46bcfc3202be60176)--:
@@ -20,6 +23,7 @@ Error: Product with ID 2e2d46cee23bf6e46bcfc3202be60176 already exists.
 --Product Insertion--:
 
 Product added: Product ID: 2341ComputerScience, Name: A Widgit, Category: New Category, Price: $50.12
+
 Product added: Product ID: CS2341DataStructures, Name: Hammer, Category: New Category, Price: $2341.99
 
 **Was informed in lab to give a write up regarding time complexity, below is my write-up:**
