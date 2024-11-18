@@ -2,6 +2,10 @@
 Assignment 3 for CS2341
 
 <u>Wade Hunter 48839484</u>
+
+<u>Julia Bonsack 48787874</u>
+
+
 <u>Underlined Section</u>
 
 Reference for RedBlackBST methods was the example in Princetone textbook.
